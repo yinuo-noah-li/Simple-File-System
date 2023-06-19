@@ -1,0 +1,4 @@
+﻿  UnitTest.cpp
+H:\studio_final\SharedCode\BasicDisplayVisitor.cpp(10,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library H:\studio_final\Studio19\x64\Debug\UnitTest.lib and object H:\studio_final\Studio19\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> H:\studio_final\Studio19\x64\Debug\UnitTest.dll
